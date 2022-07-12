@@ -1,0 +1,31 @@
+
+div {
+    border-radius: 50%;
+  }
+  
+  .c1{
+    height: 350px;
+    width: 350px;
+    background-color: rgb(12, 169, 106);
+    border-radius: 50%;  
+    display: inline-block;
+    
+  }
+  .c2{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(57, 21, 187); 
+    margin-left:-305px;
+    margin-bottom:51px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .c3 {
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+    margin-bottom:100px;
+    margin-left:-202px;
+    border-radius: 50%;
+    display: inline-block;
+  }
