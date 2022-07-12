@@ -1,0 +1,19 @@
+
+.btn {
+    width: 30%;
+    height: 68px;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: aqua;
+    color: rgb(5, 50, 16);
+}
+h1{
+    text-align: center;
+}
+
+#btns{
+    background-color: bisque;
+    height: 380px;
+
+}
