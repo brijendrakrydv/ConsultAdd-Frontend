@@ -1,0 +1,13 @@
+.center{
+    font-size: large;
+    text-align: center;
+
+}
+.box{
+    font-size: large;
+    text-align: center;
+    align-self: center;
+    height: max-content;
+    vertical-align: middle;
+    
+}
